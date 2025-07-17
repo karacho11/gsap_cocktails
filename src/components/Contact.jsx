@@ -28,7 +28,8 @@ const Contact = () => {
     })
     .to('#f-left-leaf', {
         y: '-50', duration: 1, ease:'power1.inOut'
-    }, '<')
+    }, '<');
+    
   })
 
 
